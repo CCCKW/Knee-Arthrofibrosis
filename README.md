@@ -1,5 +1,6 @@
 # Knee-Arthrofibrosis
 This project used single-cell RNA sequencing technology to analyze synovial tissues from patients with recurrent knee hyperplasia and patients with curative knee hyperplasia, and identified key cell types and potential biomarkers of recurrent knee hyperplasia.
+./pic.png
 
 ## method
 1. Collection of synovial tissue samples from clinical patients
